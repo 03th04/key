@@ -1,0 +1,12 @@
+{
+    "users": {
+        "khoaiosvn": {
+            "password": "0304",
+            "expiry": "2026-03-18 20:21:46"
+        },
+        "khoaiosvn2": {
+            "password": "khoaxd",
+            "expiry": "2025-12-31 23:59:59"
+        }
+    }
+}
